@@ -10,3 +10,7 @@ _demo:
     resource: "@AcmeDemoBundle/Controller/DemoController.php"
     type:     annotation
     prefix:   /demo
+
+_try_jms_job_queue:
+    resource: "@AcmeDemoBundle/Controller/MyController.php"
+    type:     annotation
