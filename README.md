@@ -13,7 +13,7 @@
 
 You should install the jms/job-queue-bundle with version "1.1.0"
 
->>> NOTE: use the composer version 1
+> NOTE: use the composer version 1
 
 ```bash
 composer require jms/job-queue-bundle ^1.1.0
@@ -42,7 +42,7 @@ Finally, have your `app/console` use JMSJobQueueBundle's `Application`:
 
 You can find more info in the package docs
 
->>> NOTE: Please, use the version 1.1.0 docs (download it from [here](https://github.com/schmittjoh/JMSJobQueueBundle/releases/tag/1.1.0))
+> NOTE: Please, use the version 1.1.0 docs (download it from [here](https://github.com/schmittjoh/JMSJobQueueBundle/releases/tag/1.1.0))
 
 ## Running the schema to add all the needed tables to the database
 
@@ -58,4 +58,4 @@ You can find the example by investigating the code:
 
 Please visit the route `/tryJMSJobQueue` to check my code
 
->>> NOTE: run the command `php app/console jms-job-queue:run` to run the worker that runs the jobs added to the database
+> NOTE: run the command `php app/console jms-job-queue:run` to run the worker that runs the jobs added to the database
