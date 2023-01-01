@@ -1,7 +1,5 @@
 # Example using jms/job-queue-bundle package
 
-In this docs, I will show how to:
-
 - [Example using jms/job-queue-bundle package](#example-using-jmsjob-queue-bundle-package)
   - [Installing and configuring the package](#installing-and-configuring-the-package)
     - [Installing](#installing)
